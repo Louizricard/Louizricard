@@ -11,10 +11,35 @@
 
 Faço apps com Flutter e APIs com Python. Gosto de entender o problema, organizar as regras e construir algo que faça sentido usar. Estudo Engenharia de Software e também crio jogos nas horas vagas.
 
-<p>
-  <a href="https://www.linkedin.com/in/luiz-ricardo-32249a332/"><img src="assets/icons/linkedin.svg" width="24" height="24" alt=""> LinkedIn</a> ·
-  <a href="https://louizvolution.vercel.app/"><img src="assets/icons/portfolio.svg" width="24" height="24" alt=""> Portfólio</a> ·
-  <a href="https://louizvolution.itch.io/"><img src="assets/icons/games.svg" width="24" height="24" alt=""> Jogos no itch.io</a>
+<p align="left">
+    <a href="https://www.linkedin.com/in/luiz-ricardo-32249a332/">
+        <img 
+            alt="LinkedIn" 
+            title="Meu LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?logo=link&logoColor=white&style=for-the-badge"
+        />
+    </a>
+    <a href="https://github.com/Louizricard">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://img.shields.io/github/followers/Louizricard?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+    <a href="https://github.com/Louizricard?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas no GitHub" 
+            src="https://img.shields.io/github/stars/Louizricard?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
+        />
+    </a>
+    <a href="https://louizvolution.itch.io/">
+        <img 
+            alt="itch.io" 
+            title="Meus projetos de jogos" 
+            src="https://img.shields.io/badge/itch.io-Indie%20Games-fa5c5c?logo=itchdotio&logoColor=white&style=for-the-badge"
+        />
+    </a>
 </p>
 
 ### Projetos
@@ -35,14 +60,27 @@ Faço apps com Flutter e APIs com Python. Gosto de entender o problema, organiza
 
 <sub>Trabalhei e Triagem: capturas reais com dados de demonstração. Triagem: apresentação pública; código proprietário.</sub>
 
-### Stack
+### 🛠️ Linguagens e Tecnologias
 
-<picture>
-  <source media="(max-width: 600px)" srcset="assets/stack-mobile.svg">
-  <img src="assets/stack.svg" alt="Flutter · Dart · Python · FastAPI · PostgreSQL · Docker" width="100%">
-</picture>
+<img align="left" alt="Flutter" title="Flutter" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+<img align="left" alt="Dart" title="Dart" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
+<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="FastAPI" title="FastAPI" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
+<img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img align="left" alt="Astro" title="Astro" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" />
+<img align="left" alt="Supabase" title="Supabase" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
+<img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="HTML5" title="HTML5" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS3" title="CSS3" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="WordPress" title="WordPress" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" />
+<img align="left" alt="Docker" title="Docker" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 
-Também uso TypeScript, NestJS, Supabase, Astro e GitHub Actions.
+<br/>
+<br/>
+
+Também uso NestJS e GitHub Actions.
 
 ```text
 louiz@dev:~$ cat foco.txt
