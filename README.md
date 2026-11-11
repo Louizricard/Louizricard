@@ -1,106 +1,60 @@
-# Luiz Ricardo
-
-**`Desenvolvedor de Software | Mobile & Full-Stack`**
-
-Sou graduando em **Engenharia de Software** com foco no desenvolvimento de aplicações multiplataforma (Mobile e Web), APIs e sistemas escaláveis. Tenho experiência prática transformando regras de negócio reais em produtos seguros, performáticos e bem arquitetados.
-
-Atuo principalmente com **Flutter, Dart, Python (FastAPI), TypeScript, Astro, SQL (PostgreSQL) e Supabase**, aplicando boas práticas como **Clean Architecture, padrão BFF, testes automatizados e CI/CD**.
-
-Como hobby criativo e laboratório de lógica, também desenvolvo jogos independentes disponíveis no meu [itch.io](https://louizvolution.itch.io/).
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/luiz-ricardo-32249a332/">
-        <img 
-            alt="LinkedIn" 
-            title="Meu LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Conectar-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"
-        />
-    </a>
-    <a href="https://github.com/Louizricard">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Louizricard?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/Louizricard?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Louizricard?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
-        />
-    </a>
-    <a href="https://louizvolution.itch.io/">
-        <img 
-            alt="itch.io" 
-            title="Meus projetos de jogos" 
-            src="https://custom-icon-badges.demolab.com/badge/itch.io-Indie%20Games-fa5c5c?logo=itchdotio&logoColor=white&style=for-the-badge"
-        />
-    </a>
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/banner-mobile.svg">
+    <img src="assets/banner.svg" alt="Luiz Ricardo — Desenvolvedor de Software. Mobile, web e backend." width="100%">
+  </picture>
 </p>
 
----
+<p align="center">
+  <img src="assets/typing.svg" alt="Aplicativos e APIs, da ideia ao código." width="560">
+</p>
 
-### 🛠️ Linguagens e Tecnologias
+Faço apps com Flutter e APIs com Python. Gosto de entender o problema, organizar as regras e construir algo que faça sentido usar. Estudo Engenharia de Software e também crio jogos nas horas vagas.
 
-<img align="left" alt="Flutter" title="Flutter" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
-<img align="left" alt="Dart" title="Dart" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="FastAPI" title="FastAPI" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
-<img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img align="left" alt="Astro" title="Astro" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" />
-<img align="left" alt="Supabase" title="Supabase" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
-<img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="HTML5" title="HTML5" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS3" title="CSS3" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="WordPress" title="WordPress" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" />
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+[LinkedIn](https://www.linkedin.com/in/luiz-ricardo-32249a332/) · [Portfólio](https://louizvolution.vercel.app/) · [Jogos no itch.io](https://louizvolution.itch.io/)
 
-<br/>
-<br/>
+### Projetos
 
----
+<p>
+  <a href="https://github.com/Louizricard/Trabalhei"><img src="assets/projects/trabalhei.png" alt="Trabalhei: plataforma de freelancers, com captura real do mural de vagas. Flutter, Dart e PostgreSQL." width="49%"></a>
+  <a href="https://github.com/Louizricard/triagem-demo"><img src="assets/projects/triagem.png" alt="Triagem: atendimento com a marca da empresa. Capturas reais do início, chat e cobranças com dados de demonstração. Flutter, Python, FastAPI e Docker." width="49%"></a>
+</p>
+<p>
+  <a href="https://github.com/Louizricard/Finnapp"><img src="assets/projects/finnapp.png" alt="Finnapp: controle financeiro pessoal em desenvolvimento. Base Flutter, API FastAPI e PostgreSQL. Card de arquitetura, sem captura de interface." width="49%"></a>
+  <a href="https://github.com/Louizricard/cofre-entregaveis"><img src="assets/projects/cofre.png" alt="Cofre de Entregáveis, em desenvolvimento: arquivos, versões e revisão de entregas. Flutter Web, NestJS e PostgreSQL. Card de apresentação, sem captura de interface." width="49%"></a>
+</p>
 
-### 💻 Projetos em Destaque
+[**Trabalhei**](https://trabalhei.site) — freelancers, propostas e entregas.<br>
+[**Triagem**](https://github.com/Louizricard/triagem-demo) — assistente de atendimento configurável por empresa.<br>
+[**Finnapp**](https://github.com/Louizricard/Finnapp) — controle financeiro pessoal, em desenvolvimento.<br>
+[**Cofre de Entregáveis**](https://github.com/Louizricard/cofre-entregaveis) — arquivos e revisão de entregas, **em desenvolvimento**.
 
-#### 💼 Trabalhei — Marketplace de Freelancers
-Plataforma multiplataforma (**Android, iOS e Web**) que conecta clientes a profissionais independentes, contando com negociação de propostas, chat em tempo real e gestão de entregas por marcos.
-* **Front-end:** Desenvolvido em **Flutter/Dart** com **Clean Architecture**, gerenciamento de estado com **Riverpod** e navegação com `go_router`.
-* **Back-end & Segurança:** **Supabase (PostgreSQL, Auth, Realtime, Storage)** com migrations SQL, **Row Level Security (RLS)** e funções `SECURITY DEFINER` para proteger regras de negócio no banco.
-* **Pagamentos & Qualidade:** Integração com **Asaas** via Edge Functions (**Deno/TypeScript**) e webhooks idempotentes; cobertura de testes automatizados (`flutter_test`) e pipeline de **CI no GitHub Actions**.
+<sub>Trabalhei e Triagem: capturas reais com dados de demonstração. Triagem: apresentação pública; código proprietário.</sub>
 
-🔗 [Acessar Repositório](https://github.com/Louizricard/Trabalhei)
+### Stack
 
-#### 🤖 DBS Telecom — Portal de Autoatendimento & Chatbot
-MVP de autoatendimento e assistente virtual para provedores de internet, construído em 7 dias para um desafio técnico e com backend operando em nuvem.
-* **Arquitetura BFF (Backend For Frontend):** Aplicativo em **Flutter** consumindo uma API intermediária em **Python (FastAPI)** integrada ao ERP **IXCSoft**, isolando credenciais e regras sensíveis no servidor.
-* **Destaques:** Login *passwordless* por CPF/CNPJ, dashboard de faturas/contratos e **Chatbot com motor de PNL** próprio capaz de realizar triagem técnica, direcionar setores e emitir 2ª via de boleto automaticamente no chat.
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/stack-mobile.svg">
+  <img src="assets/stack.svg" alt="Flutter · Dart · Python · FastAPI · PostgreSQL · Docker" width="100%">
+</picture>
 
-🔗 [Acessar Repositório e APK](https://github.com/Louizricard/DBS-Telecom)
+Também uso TypeScript, NestJS, Supabase, Astro e GitHub Actions.
 
----
+```text
+louiz@dev:~$ cat foco.txt
+apps, APIs e regras de negócio
+construir → testar → melhorar
+```
 
-### 🌐 Desenvolvimento Web em Produção
+### Por aqui
 
-#### ❄️ FrutMar Distribuidora
-Catálogo digital B2B/B2C para distribuidora de congelados com montagem de pedidos integrada diretamente ao WhatsApp.
-* Construído com **Astro**, **TypeScript** e **CSS puro** (Design Tokens), hospedado na **Cloudflare Pages** com deploy contínuo.
-* Pipeline em **Node.js** que valida planilhas CSV exportadas do ERP da empresa e gera o catálogo estático em JSON, garantindo alta performance mobile, SEO otimizado e pontuação **Lighthouse 90+**.
+<a href="https://github.com/Louizricard?tab=repositories">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/stats-mobile.svg">
+    <img src="assets/stats.svg" alt="Estatísticas públicas do GitHub: repositórios, estrelas em projetos próprios e seguidores. Data da atualização na imagem." width="100%">
+  </picture>
+</a>
 
-🔗 [Visitar o site](https://www.frutmar.com.br)
+<img src="assets/snake.svg" alt="Animação da snake percorrendo o calendário de contribuições de Louizricard." width="100%">
 
-#### 🏭 Solução Usinagem
-Site institucional e comercial desenvolvido sob medida para empresa do setor industrial, utilizando **WordPress, Elementor e MySQL**, com foco em captação de orçamentos e presença digital.
-
-🔗 [Visitar o site](https://solucaousinagem.com.br/)
-
----
-
-### 🎯 Foco Atual e Estudos
-
-* 🎓 Graduação em **Engenharia de Software**
-* 📱 Arquitetura avançada e testes automatizados em **Flutter / Dart**
-* ⚙️ Desenvolvimento de APIs e microsserviços com **Python (FastAPI)** e **Edge Functions**
-* 🗄️ Modelagem, segurança (RLS/Triggers) e performance em **PostgreSQL / Supabase**
-* 🔧 Boas práticas de **Engenharia de Software, Clean Architecture e CI/CD**
+<sub>Estatísticas e snake atualizadas diariamente pelo [GitHub Actions](https://github.com/Louizricard/Louizricard/actions/workflows/profile.yml).</sub>
