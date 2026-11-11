@@ -1,4 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="44" viewBox="0 0 760 44" role="img"><title>Aplicativos e APIs, da ideia ao código.</title>
 <style>@media(prefers-reduced-motion:reduce){#reveal{animation:none;width:760px}#cursor{display:none}}#reveal{animation:type 3.5s steps(39,end) both}@keyframes type{from{width:0}to{width:760px}}</style>
-<defs><clipPath id="clip"><rect id="reveal" width="760" height="44"/></clipPath></defs>
-<g clip-path="url(#clip)"><text x="0" y="29" fill="#19e6a7" font-family="DejaVu Sans Mono,monospace" font-size="22">Aplicativos e APIs, da ideia ao código.</text></g></svg>
+<rect width="760" height="44" rx="8" fill="#081a2f"/><defs><clipPath id="clip"><rect id="reveal" width="760" height="44"/></clipPath></defs>
+<g clip-path="url(#clip)"><text x="12" y="29" fill="#19e6a7" font-family="DejaVu Sans Mono,monospace" font-size="22">Aplicativos e APIs, da ideia ao código.</text></g></svg>

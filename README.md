@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Luiz Ricardo — Desenvolvedor de Software. Mobile, web e backend." width="100%">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/banner-mobile.svg">
+    <img src="assets/banner.svg" alt="Luiz Ricardo — Desenvolvedor de Software. Mobile, web e backend." width="100%">
+  </picture>
 </p>
 
 <p align="center">
@@ -30,7 +33,10 @@ Faço apps com Flutter e APIs com Python. Gosto de entender o problema, organiza
 
 ### Stack
 
-<img src="assets/stack.svg" alt="Flutter · Dart · Python · FastAPI · PostgreSQL · Docker" width="100%">
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/stack-mobile.svg">
+  <img src="assets/stack.svg" alt="Flutter · Dart · Python · FastAPI · PostgreSQL · Docker" width="100%">
+</picture>
 
 Também uso TypeScript, NestJS, Supabase, Astro e GitHub Actions.
 
@@ -42,7 +48,12 @@ construir → testar → melhorar
 
 ### Por aqui
 
-<a href="https://github.com/Louizricard?tab=repositories"><img src="assets/stats.svg" alt="Estatísticas públicas do GitHub: repositórios, estrelas em projetos próprios e seguidores. Data da atualização na imagem." width="100%"></a>
+<a href="https://github.com/Louizricard?tab=repositories">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/stats-mobile.svg">
+    <img src="assets/stats.svg" alt="Estatísticas públicas do GitHub: repositórios, estrelas em projetos próprios e seguidores. Data da atualização na imagem." width="100%">
+  </picture>
+</a>
 
 <img src="assets/snake.svg" alt="Animação da snake percorrendo o calendário de contribuições de Louizricard." width="100%">
 

@@ -27,4 +27,10 @@ def main():
         parts.append(f'<text x="{x}" y="123" fill="#ffffff" font-family="DejaVu Sans,Arial,sans-serif" font-size="21">{label}</text>')
     parts.append(f'<text x="40" y="174" fill="#b7c3d0" font-family="monospace" font-size="16">DADOS PÚBLICOS · {date} UTC · estrelas sem forks</text></svg>\n')
     Path("assets/stats.svg").write_text("".join(parts),encoding="utf-8")
+    mobile=['<svg xmlns="http://www.w3.org/2000/svg" width="600" height="340" viewBox="0 0 600 340" role="img"><title>Estatísticas públicas do GitHub</title><rect width="600" height="340" rx="16" fill="#081a2f"/>']
+    for i,(value,label) in enumerate(metrics):
+        y=65+i*90
+        mobile.append(f'<text x="30" y="{y}" fill="#19e6a7" font-family="Arial,sans-serif" font-size="42" font-weight="700">{value}</text><text x="120" y="{y-5}" fill="#ffffff" font-family="Arial,sans-serif" font-size="23">{label}</text>')
+    mobile.append(f'<text x="30" y="310" fill="#b7c3d0" font-family="monospace" font-size="18">{date} UTC · dados públicos · sem forks</text></svg>\n')
+    Path("assets/stats-mobile.svg").write_text("".join(mobile),encoding="utf-8")
 if __name__=="__main__": main()
