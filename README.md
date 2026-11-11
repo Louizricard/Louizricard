@@ -11,7 +11,11 @@
 
 Faço apps com Flutter e APIs com Python. Gosto de entender o problema, organizar as regras e construir algo que faça sentido usar. Estudo Engenharia de Software e também crio jogos nas horas vagas.
 
-[LinkedIn](https://www.linkedin.com/in/luiz-ricardo-32249a332/) · [Portfólio](https://louizvolution.vercel.app/) · [Jogos no itch.io](https://louizvolution.itch.io/)
+<p>
+  <a href="https://www.linkedin.com/in/luiz-ricardo-32249a332/"><img src="assets/icons/linkedin.svg" width="24" height="24" alt=""> LinkedIn</a> ·
+  <a href="https://louizvolution.vercel.app/"><img src="assets/icons/portfolio.svg" width="24" height="24" alt=""> Portfólio</a> ·
+  <a href="https://louizvolution.itch.io/"><img src="assets/icons/games.svg" width="24" height="24" alt=""> Jogos no itch.io</a>
+</p>
 
 ### Projetos
 
